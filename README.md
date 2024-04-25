@@ -49,7 +49,7 @@
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/07">07</a></th>
-        <td>Exploitation ELF: Environment</td>
+        <td>Exploitation ELF: Environement</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
