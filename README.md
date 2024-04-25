@@ -8,82 +8,82 @@
 ## <p align="center">Summary</p>
 <table align="center">
     <tr>
-        <td>Level</td>
-        <td>Description</td>
-        <td>Domain</td>
+        <th>Level</th>
+        <th>Description</th>
+        <th>Domain</th>
     </tr>
     <tr>
-        <td>00</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/00">00</a></th>
         <td>Affine cipher</td>
         <td>Cryptography</td>
     </tr>
     <tr>
-        <td>01</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/01">01</a></th>
         <td>DES Hash</td>
         <td>Cryptography</td>
     </tr>
     <tr>
-        <td>02</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/02">02</a></th>
         <td>Network analysis</td>
         <td>Network</td>
     </tr>
     <tr>
-        <td>03</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/03">03</a></th>
         <td>Binary exploit: PATH</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
-        <td>04</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/04">04</a></th>
         <td>Perl exploit: user input 1</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
-        <td>05</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/05">05</a></th>
         <td>Scheduled task: Cron</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
-        <td>06</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/06">06</a></th>
         <td>PHP exploit: user input 2</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
-        <td>07</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/07">07</a></th>
         <td>Binary exploit: environment</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
-        <td>08</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/08">08</a></th>
         <td>Binary exploit: symbolic link</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
-        <td>09</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/09">09</a></th>
         <td>Caesar cipher</td>
         <td>Cryptography</td>
     </tr>
     <tr>
-        <td>10</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/10">10</a></th>
         <td>Binary exploit: race condition</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
-        <td>11</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/11">11</a></th>
         <td>Lua exploit: user input 3</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
-        <td>12</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/12">12</a></th>
         <td>Perl exploit: user input 4</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
-        <td>13</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/13">13</a></th>
         <td>Binary exploit: revme 1</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
-        <td>14</td>
+        <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/14">14</a></th>
         <td>Binary exploit: revme 2</td>
         <td>Bug bounty</td>
     </tr>
