@@ -59,7 +59,7 @@
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/09">09</a></th>
-        <td>Chiffrement Caesar</td>
+        <td>Chiffrement César</td>
         <td>Cryptographie</td>
     </tr>
     <tr>
