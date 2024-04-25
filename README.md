@@ -5,86 +5,86 @@
 >
 > *Vous rencontrerez des impasses pendant ce projet. Vous devrez les surmonter vous-même. Vous devez être la seule et **UNIQUE** clé des portes verrouillées auxquelles vous serez confronté. Ce projet vise à développer une pensée logique que vous apprendrez pour toujours et que vous utiliserez dans le futur. Avant de demander de l'aide, demandez-vous si vous avez vraiment exploré toutes les possibilités.*
 
-## <p align="center">Summary</p>
+## <p align="center">Résumé</p>
 <table align="center">
     <tr>
-        <th>Level</th>
+        <th>Niveau</th>
         <th>Description</th>
-        <th>Domain</th>
+        <th>Domaine</th>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/00">00</a></th>
-        <td>Affine cipher</td>
-        <td>Cryptography</td>
+        <td>Chiffrement affine</td>
+        <td>Cryptographie</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/01">01</a></th>
-        <td>DES Hash</td>
-        <td>Cryptography</td>
+        <td>Hash DES</td>
+        <td>Cryptographie</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/02">02</a></th>
-        <td>Network analysis</td>
-        <td>Network</td>
+        <td>Analyse Réseau</td>
+        <td>Sniffing</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/03">03</a></th>
-        <td>Binary exploit: PATH</td>
+        <td>Exploitation ELF: PATH</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/04">04</a></th>
-        <td>Perl exploit: user input 1</td>
+        <td>Exploitation Perl: Input (1)</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/05">05</a></th>
-        <td>Scheduled task: Cron</td>
+        <td>Tâches planifiées: Cron</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/06">06</a></th>
-        <td>PHP exploit: user input 2</td>
+        <td>Exploitation PHP: Input (2)</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/07">07</a></th>
-        <td>Binary exploit: environment</td>
+        <td>Exploitation ELF: Environment</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/08">08</a></th>
-        <td>Binary exploit: symbolic link</td>
+        <td>Exploitation ELF: Liens symboliques</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/09">09</a></th>
-        <td>Caesar cipher</td>
-        <td>Cryptography</td>
+        <td>Chiffrement Caesar</td>
+        <td>Cryptographie</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/10">10</a></th>
-        <td>Binary exploit: race condition</td>
+        <td>Exploitation ELF: Race condition</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/11">11</a></th>
-        <td>Lua exploit: user input 3</td>
+        <td>Exploitation Lua: Input (3)</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/12">12</a></th>
-        <td>Perl exploit: user input 4</td>
+        <td>Exploitation Perl: Input (4)</td>
         <td>PrivEsc</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/13">13</a></th>
-        <td>Binary exploit: revme 1</td>
+        <td>Exploitation ELF: RevMe (1)</td>
         <td>Bug bounty</td>
     </tr>
     <tr>
         <th><a href="https://github.com/Skalyaeve/snow-crash/tree/main/bonus/14">14</a></th>
-        <td>Binary exploit: revme 2</td>
+        <td>Exploitation ELF: RevMe (2)</td>
         <td>Bug bounty</td>
     </tr>
 </table>
