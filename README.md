@@ -5,22 +5,86 @@
 >
 > *Vous rencontrerez des impasses pendant ce projet. Vous devrez les surmonter vous-même. Vous devez être la seule et **UNIQUE** clé des portes verrouillées auxquelles vous serez confronté. Ce projet vise à développer une pensée logique que vous apprendrez pour toujours et que vous utiliserez dans le futur. Avant de demander de l'aide, demandez-vous si vous avez vraiment exploré toutes les possibilités.*
 
-## Summary
-| Exercice | Domain |
-| - | - |
-| 00 - Affine cipher | Cryptography |
-| 01 - DES Hash | Cryptography |
-| 02 - Network analysis | Network |
-| 03 - Binary exploit: PATH | Bug bounty |
-| 04 - Perl exploit: user input 1 | PrivEsc |
-| 05 - Scheduled task: Cron | PrivEsc |
-| 06 - PHP exploit: user input 2 | PrivEsc |
-| 07 - Binary exploit: environment | Bug bounty |
-| 08 - Binary exploit: symbolic link | Bug bounty |
-| 09 - Caesar cipher | Cryptography |
-| 10 - Binary exploit: race condition | Bug bounty |
-| 11 - Lua exploit: user input 3 | PrivEsc |
-| 12 - Perl exploit: user input 4 | PrivEsc |
-| 13 - Binary exploit: revme 1 | Bug bounty |
-| 14 - Binary exploit: revme 2 | Bug bounty |
-
+## <p align="center">Summary</p>
+<table align="center">
+    <tr>
+        <td>Level</td>
+        <td>Description</td>
+        <td>Domain</td>
+    </tr>
+    <tr>
+        <td>00</td>
+        <td>Affine cipher</td>
+        <td>Cryptography</td>
+    </tr>
+    <tr>
+        <td>01</td>
+        <td>DES Hash</td>
+        <td>Cryptography</td>
+    </tr>
+    <tr>
+        <td>02</td>
+        <td>Network analysis</td>
+        <td>Network</td>
+    </tr>
+    <tr>
+        <td>03</td>
+        <td>Binary exploit: PATH</td>
+        <td>Bug bounty</td>
+    </tr>
+    <tr>
+        <td>04</td>
+        <td>Perl exploit: user input 1</td>
+        <td>PrivEsc</td>
+    </tr>
+    <tr>
+        <td>05</td>
+        <td>Scheduled task: Cron</td>
+        <td>PrivEsc</td>
+    </tr>
+    <tr>
+        <td>06</td>
+        <td>PHP exploit: user input 2</td>
+        <td>PrivEsc</td>
+    </tr>
+    <tr>
+        <td>07</td>
+        <td>Binary exploit: environment</td>
+        <td>Bug bounty</td>
+    </tr>
+    <tr>
+        <td>08</td>
+        <td>Binary exploit: symbolic link</td>
+        <td>Bug bounty</td>
+    </tr>
+    <tr>
+        <td>09</td>
+        <td>Caesar cipher</td>
+        <td>Cryptography</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Binary exploit: race condition</td>
+        <td>Bug bounty</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Lua exploit: user input 3</td>
+        <td>PrivEsc</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Perl exploit: user input 4</td>
+        <td>PrivEsc</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Binary exploit: revme 1</td>
+        <td>Bug bounty</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Binary exploit: revme 2</td>
+        <td>Bug bounty</td>
+    </tr>
+</table>
