@@ -1,11 +1,13 @@
 # <p align="center">snow-crash</p>
-> *En tant que développeur, vous pourriez être amené à travailler sur des logiciels utilisés par des centaines de personnes. Si votre logiciel présente des faiblesses, celles-ci exposeront les utilisateurs. Il est de votre devoir de comprendre les différentes techniques utilisées pour exploiter ces faiblesses afin de les repérer et de les éviter.*
+
+> _En tant que développeur, vous pourriez être amené à travailler sur des logiciels utilisés par des centaines de personnes. Si votre logiciel présente des faiblesses, celles-ci exposeront les utilisateurs. Il est de votre devoir de comprendre les différentes techniques utilisées pour exploiter ces faiblesses afin de les repérer et de les éviter._
 >
-> *Ce projet est une modeste introduction au vaste monde de la cybersécurité, un monde où vous n'aurez aucune marge d'erreur. Il vise à vous faire découvrir, à travers plusieurs petits défis, la cybersécurité dans divers domaines. Vous utiliserez des méthodes plus ou moins complexes qui vous donneront une nouvelle perspective sur l'informatique en général, vous vous familiariserez avec plusieurs langages (ASM/perl/php/...), développerez une logique pour comprendre des programmes inconnus, et prendrez conscience des problèmes liés à de simples erreurs de programmation.*
+> _Ce projet est une modeste introduction au vaste monde de la cybersécurité, un monde où vous n'aurez aucune marge d'erreur. Il vise à vous faire découvrir, à travers plusieurs petits défis, la cybersécurité dans divers domaines. Vous utiliserez des méthodes plus ou moins complexes qui vous donneront une nouvelle perspective sur l'informatique en général, vous vous familiariserez avec plusieurs langages (ASM/perl/php/...), développerez une logique pour comprendre des programmes inconnus, et prendrez conscience des problèmes liés à de simples erreurs de programmation._
 >
-> *Vous rencontrerez des impasses pendant ce projet. Vous devrez les surmonter vous-même. Vous devez être la seule et **UNIQUE** clé des portes verrouillées auxquelles vous serez confronté. Ce projet vise à développer une pensée logique que vous apprendrez pour toujours et que vous utiliserez dans le futur. Avant de demander de l'aide, demandez-vous si vous avez vraiment exploré toutes les possibilités.*
+> _Vous rencontrerez des impasses pendant ce projet. Vous devrez les surmonter vous-même. Vous devez être la seule et **UNIQUE** clé des portes verrouillées auxquelles vous serez confronté. Ce projet vise à développer une pensée logique que vous apprendrez pour toujours et que vous utiliserez dans le futur. Avant de demander de l'aide, demandez-vous si vous avez vraiment exploré toutes les possibilités._
 
 ## <p align="center">Résumé</p>
+
 <table align="center">
     <tr>
         <th>Niveau</th>
@@ -88,4 +90,3 @@
         <td>Bug bounty</td>
     </tr>
 </table>
-
